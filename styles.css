@@ -1,0 +1,77 @@
+:root {
+    /* Colors */
+    /* Primary */
+    /* Text */
+    
+    --very-dark-desaturated-blue: hsl(238, 29%, 16%);
+    --soft-red: hsl(14, 88%, 65%);
+    
+    /* Gradient */
+    
+    /* Background gradient: */
+    --soft-violet: hsl(273, 75%, 66%);
+    --soft-blue: hsl(240, 73%, 65%);
+    
+    /* Neutral */
+    /* Text */
+    
+    --very-dark-grayish-blue: hsl(237, 12%, 33%);
+    --dark-grayish-blue: hsl(240, 6%, 50%);
+    
+    /* Dividers */
+    --light-grayish-blue: hsl(240, 5%, 91%);
+    
+    /* Font */
+    --sm: 1.2rem;
+    --md: 1.4rem;
+    --lg: 2.5rem;
+}
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+html {
+    font-size: 62.5%;
+    font-family: 'Kumbh Sans', sans-serif;
+    background: var(--very-dark-blue);
+}
+.general__container {
+    
+}
+.img__section {
+
+}
+.section__continer {
+
+}
+.container__ilustration {
+
+}
+.container__ilustration2 {
+
+}
+.section__shadow {
+
+}
+.container {
+
+}
+.container__title {
+
+}
+.container__disclosure {
+
+}
+.disclosure__btn {
+
+}
+.disclosure__icon {
+
+}
+.disclosure__content {
+
+}
+.disclosure__text {
+
+}
