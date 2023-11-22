@@ -1,4 +1,3 @@
-const disclosureInfo = document.querySelector('.disclosure__content')
 const btn1 = document.querySelector('#js__btn1')
 const btn2 = document.querySelector('#js__btn2')
 const btn3 = document.querySelector('#js__btn3')
