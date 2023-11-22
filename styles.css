@@ -2,7 +2,7 @@
     /* Colors */
     /* Primary */
     /* Text */
-    
+    --white: hsl(0, 0%, 100%);
     --very-dark-desaturated-blue: hsl(238, 29%, 16%);
     --soft-red: hsl(14, 88%, 65%);
     
@@ -49,7 +49,7 @@ main {
     max-width: 460px;
     min-width: 305px;
     margin-top: 70px;
-    background: var(--light-grayish-blue);
+    background: var(--white);
     border-radius: 20px;
     box-shadow: 5px 6px 20px 4px rgb(0 0 0 / 10%);
 }
@@ -110,7 +110,7 @@ span {
     width: 100%;
     border: none;
     font-size: var(--md);
-    background-color: var(--light-grayish-blue);
+    background-color: var(--white);
     color: var(--dark-grayish-blue);
 }
 .btn__icon {
